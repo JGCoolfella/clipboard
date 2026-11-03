@@ -11,10 +11,6 @@ A native macOS clipboard and character panel inspired by Windows 11's Win+V pane
 3. Press **Command+Shift+V** from another app. Or click the clipboard icon in the menu bar. There is intentionally no Dock icon.
 4. Click the shortcut field in Settings to record a different shortcut. Enable Launch at login if wanted.
 
-This is a locally built, ad hoc signed app, not a notarized App Store release. If macOS blocks opening a transferred copy, use System Settings > Privacy & Security > Open Anyway for this app. Do not disable Gatekeeper. Replacing an ad hoc signed build can require reauthorizing Accessibility.
-
-If macOS asks whether Clipboard may read clipboard contents, allow access for clipboard history to work. These permissions are granted by you; the app cannot grant them itself.
-
 ## Features
 
 The panel uses compact Windows-style tabs and cards, a neutral graphite accent, direct pin buttons, and matching continuous corner masks over native Liquid Glass. Source attribution is available as a tooltip and through search. Drag the panel's upper edge to move it; the last dragged position is remembered across restarts and clamped to available screens. Settings can disable position memory or reset it.
