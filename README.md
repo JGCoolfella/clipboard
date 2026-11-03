@@ -1,5 +1,7 @@
 # Clipboard
 
+A Windows 11 style clipboard for Mac because Apple is stuck in 1996.
+
 A native macOS clipboard and character panel inspired by Windows 11's Win+V panel. Apple Silicon, macOS 14 or later. Uses native Liquid Glass on macOS 26 and native vibrancy on older supported systems.
 
 ## Install
